@@ -121,5 +121,6 @@ Thumbs.db
 # config file
 config.py
 
+# Large files
 Pickles/
 Pickles/*
